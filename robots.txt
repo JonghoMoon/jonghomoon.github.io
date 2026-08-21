@@ -2,4 +2,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: https://jonghomoon.github.io/STARPWN-2026-Writeup/sitemap.xml
+Sitemap: https://jonghomoon.github.io/sitemap.xml
